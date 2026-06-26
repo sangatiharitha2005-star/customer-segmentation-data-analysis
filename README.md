@@ -137,23 +137,14 @@ Customer-Segmentation/
 │
 ├── marketing_campaign.csv
 ├── Customer_Segmentation.ipynb
+├── Customer_Segmentation_data analysis
 ├── Customer_Segmentation_Report.pdf
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
-
-## Author
-
-GitHub:
-https://github.com/hemanth350
-
----
-
 ## Future Improvements
 
-- Interactive Power BI Dashboard
 - Streamlit Web Application
 - Customer Lifetime Value Prediction
 - Recommendation System
